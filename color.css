@@ -48,8 +48,8 @@ body{
     width: 140px;
     background-color: black;
     border-radius: 45% 65% 0% 50%;
-    top: 175px;
-    left: 610px;
+    top: 174px;
+    left: 700px;
 }
 .hair::after{
     content: "";
@@ -58,8 +58,8 @@ body{
     width: 180px;
     background-color: black;
     top: 12px;
-    left: 40px;
-    transform: rotate(9deg);
+    left: 28px;
+    transform: rotate(1deg);
     z-index: -1;
     border-radius: 50% 50% 0% 0%;
 }
@@ -91,7 +91,7 @@ body{
     border-radius: 30%;
     transform: rotate(137deg);
     top: 190px;
-    right: 600px;
+    right: 675px;
 }
 .eyebrow2::after{
     content: "";
@@ -110,7 +110,7 @@ body{
     height: 10px;
     width: 90px;
     top: 230px;
-    left: 565px;
+    left: 635px;
     border-top: 6px solid black;
     border-radius: 50%;
     padding-top: 60px;
@@ -121,7 +121,7 @@ body{
     height: 10px;
     width: 90px;
     top: 230px;
-    right: 575px;
+    right: 660px;
     border-top: 6px solid black;
     border-radius: 50%;
     padding-top: 50px;
@@ -134,7 +134,7 @@ body{
     background-color: black;
     border-radius: 50%;
     top: 260px;
-    left: 575px;
+    left: 640px;
 }
 .ball1{
     position: absolute;
@@ -143,7 +143,7 @@ body{
     background-color: white;
     border-radius: 50%;
     top: 290px;
-    left: 610px;
+    left: 680px;
 }
 .eye2{
     position: absolute;
@@ -152,7 +152,7 @@ body{
     background-color: black;
     border-radius: 50%;
     top: 260px;
-    right: 590px;
+    right: 660px;
 }
 .ball2{
     position: absolute;
@@ -161,7 +161,7 @@ body{
     background-color: white;
     border-radius: 50%;
     top: 290px;
-    right: 600px;
+    right: 670px;
 }
 .mouth{
     position: absolute;
@@ -171,5 +171,5 @@ body{
     border-radius: 90px 55px 90px 55px ;
     border: 2px solid black;
     top: 390px;
-    left: 560px;
+    left: 620px;
 }
